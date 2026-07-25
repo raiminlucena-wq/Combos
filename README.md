@@ -5,7 +5,7 @@ git clone https://github.com/raiminlucena-wq/Combos
 
  ls 
 
- cd  Combos
+ cd Combos
 
  ls
 
